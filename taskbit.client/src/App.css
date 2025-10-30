@@ -1,0 +1,14 @@
+﻿/** Pallete
+* #D97D55 brown
+* #F4E9D7 cream
+* #B8C4A9 low green
+* #6FA4AF celest
+*/
+* {
+    background-color: #D97D55;
+    text-align: center;
+}
+.wrapper {
+    padding: 20px;
+}
+

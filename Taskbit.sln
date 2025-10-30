@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "taskbit.client", "taskbit.client\taskbit.client.esproj", "{AD71EE4A-E01D-F69D-22EB-8CCE608210F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taskbit.Server", "Taskbit.Server\Taskbit.Server.csproj", "{9453E629-D885-4E79-9297-BD31BA9B35A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD71EE4A-E01D-F69D-22EB-8CCE608210F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD71EE4A-E01D-F69D-22EB-8CCE608210F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD71EE4A-E01D-F69D-22EB-8CCE608210F3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AD71EE4A-E01D-F69D-22EB-8CCE608210F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD71EE4A-E01D-F69D-22EB-8CCE608210F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD71EE4A-E01D-F69D-22EB-8CCE608210F3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{9453E629-D885-4E79-9297-BD31BA9B35A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9453E629-D885-4E79-9297-BD31BA9B35A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9453E629-D885-4E79-9297-BD31BA9B35A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9453E629-D885-4E79-9297-BD31BA9B35A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E25C0E3-594B-4B3C-B7F6-3A8DE01EC3B0}
+	EndGlobalSection
+EndGlobal
